@@ -3,7 +3,8 @@
   "description": "Libraries for testing local Drupal instances with Behat",
   "type": "library",
   "require": {
-    "drupal/drupal-extension": "4.0-rc1"
+    "drupal/drupal-extension": "4.0-rc1",
+    "symfony/event-dispatcher": "4.3.4 as 3.4.99"
   },
   "license": "MIT",
   "minimum-stability": "dev",
