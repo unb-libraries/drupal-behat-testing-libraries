@@ -7,8 +7,7 @@
     "behat/behat": "3.5.0"
   },
   "license": "MIT",
-  "minimum-stability": "dev",
-  "prefer-stable": true,
+  "minimum-stability": "stable",
   "authors": [
     {
       "name": "UNB Libraries",
