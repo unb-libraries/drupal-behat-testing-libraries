@@ -3,7 +3,8 @@
   "description": "Libraries for testing local Drupal instances with Behat",
   "type": "metapackage",
   "require": {
-    "drupal/drupal-extension": "^4"
+    "drupal/drupal-extension": "^4",
+    "symfony/symfony": "^4"
   },
   "license": "MIT",
   "authors": [
